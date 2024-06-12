@@ -1,2 +1,2 @@
 # pong
-pong game
+one of the first games I made with sdl
